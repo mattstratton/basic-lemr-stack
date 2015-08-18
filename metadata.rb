@@ -1,0 +1,7 @@
+name 'basic-lemp-stack'
+maintainer 'Matt Stratton'
+maintainer_email 'mattstratton@chef.io'
+license 'all_rights'
+description 'Installs/Configures basic-lemp-stack'
+long_description 'Installs/Configures basic-lemp-stack'
+version '0.1.0'

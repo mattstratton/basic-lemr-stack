@@ -6,7 +6,7 @@ provisioner:
   name: chef_zero
 
 platforms:
-  - name: ubuntu-12.04
+  - name: box-cutter/ubuntu1404-desktop
 
 suites:
   - name: default

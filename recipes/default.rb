@@ -28,3 +28,11 @@ end
 mysql_client 'default' do
   action :create
 end
+
+# Installs the atom text editor
+
+include_recipe 'atom::default'
+
+# Install 'lychee-theme'
+
+atom_apm 'lychee-theme'

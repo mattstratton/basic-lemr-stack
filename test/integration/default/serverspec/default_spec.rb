@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe 'basic-lemp-stack::default' do
+describe 'basic-lemr-stack::default' do
   # Serverspec examples can be found at
   # http://serverspec.org/resource_types.html
   it 'does something' do

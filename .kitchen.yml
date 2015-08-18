@@ -11,5 +11,5 @@ platforms:
 suites:
   - name: default
     run_list:
-      - recipe[basic-lemp-stack::default]
+      - recipe[basic-lemr-stack::default]
     attributes:

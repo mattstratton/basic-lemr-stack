@@ -1,4 +1,3 @@
-# basic-lemp-stack
+# basic-lemr-stack
 
-TODO: Enter the cookbook description here.
-
+Example cookbook for installing linux/nginx/mysql/ruby.

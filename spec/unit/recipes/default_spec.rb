@@ -1,12 +1,12 @@
 #
-# Cookbook Name:: basic-lemp-stack
+# Cookbook Name:: basic-lemr-stack
 # Spec:: default
 #
 # Copyright (c) 2015 Matt Stratton, All Rights Reserved.
 
 require 'spec_helper'
 
-describe 'basic-lemp-stack::default' do
+describe 'basic-lemr-stack::default' do
   context 'When all attributes are default, on an unspecified platform' do
     let(:chef_run) do
       runner = ChefSpec::ServerRunner.new

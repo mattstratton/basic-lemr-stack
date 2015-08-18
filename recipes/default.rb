@@ -17,7 +17,7 @@ include_recipe 'nginx::default'
 # Install and configure mysql. Note that this can get pretty complex, so you'll likely want to do a bunch more than just these simple defaults. For details, check out https://supermarket.chef.io/cookbooks/mysql
 
 mysql_service 'default' do
-  version '5.7'
+  version '5.5'
   bind_address '0.0.0.0'
   port '3306'
   data_dir '/data'
